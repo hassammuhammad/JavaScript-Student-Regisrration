@@ -1,1 +1,1 @@
-# JavaScript-Student-Regisrration
+# JavaScript-Student-Registration
