@@ -1,0 +1,17 @@
+@media screen and (max-width: 786px){
+    .formBox{
+        width: 100%;
+
+    }
+    .boxParent{
+        grid-template-columns: 100%;
+    }
+}
+@media screen and (max-width: 575px){
+    .formBox{
+        padding: 50px 0px;
+    }
+    .heading h2 {
+        font-size: 23px;
+    }
+}
